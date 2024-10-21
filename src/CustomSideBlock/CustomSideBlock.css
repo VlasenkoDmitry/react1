@@ -1,0 +1,29 @@
+.custom-side-block .logo-dashboard {
+  display: flex;
+  flex-direction: row;
+  max-width: 70%;
+}
+.custom-side-block .version {
+  max-width: 10%;
+}
+
+.custom-side-block .logo {
+  display: flex;
+  flex-direction: row;
+  gap: 5px;
+}
+
+.custom-side-block .logo-dashboard .symbol {
+  max-width: 20%;
+  object-fit: contain;
+}
+
+.custom-side-block .logo-dashboard .title {
+  max-width: 80%;
+  object-fit: contain;
+}
+
+.custom-side-block {
+  background-color: #ffffff;
+  padding: 50px 50px;
+}

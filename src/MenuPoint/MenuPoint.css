@@ -1,0 +1,11 @@
+.nav-button {
+  position: relative;
+  height: 54px;
+  display: flex;
+  align-items: center;
+  color: var(--navbar-light-secondary);
+  direction: ltr;
+  cursor: pointer;
+  z-index: 1;
+  min-width: 50px;
+}

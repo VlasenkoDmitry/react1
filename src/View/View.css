@@ -1,0 +1,14 @@
+.view-button a {
+  display: flex;
+  padding: 10px 0;
+  justify-content: center;
+  align-items: center;
+  border-radius: 8px;
+  border: 1px solid #b3cdff;
+  background: radial-gradient(
+    543.17% 127.46% at 33.8% 112.73%,
+    #6189d7 0%,
+    #7fa4ec 100%
+  );
+  text-decoration: none;
+}
